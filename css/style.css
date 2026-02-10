@@ -299,22 +299,8 @@ body {
    BOTONES
    ========================================================================== */
 
-.btn-primary {
-  background: #2e7d32;
-  color: #fff;
-  padding: 1rem 2.4rem;
-  font-size: 1rem;
-  box-shadow: 0 12px 30px rgba(0,0,0,0.3);
-  animation: heroIn 1.4s ease-out both;
-}
-.btn-secondary {
-  display: inline-block;
-  padding: 0.9rem 2.2rem;
-  border-radius: 999px;
-  text-decoration: none;
-  font-weight: 600;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
+
+
 
 .btn-primary {
   background: #1b5e20;              /* verde más oscuro */
@@ -340,10 +326,8 @@ body {
 }
 
 .btn-primary:hover {
-  transform: translateY(-2px);
-  box-shadow:
-    0 16px 35px rgba(0,0,0,0.45),
-    inset 0 -1px 0 rgba(255,255,255,0.2);
+  transform: translateY(-1px);
+  background: rgba(255,255,255,0.15);
 }
 
 .btn-secondary:hover {
