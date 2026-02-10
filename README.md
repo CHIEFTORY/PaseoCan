@@ -14,7 +14,7 @@ El sitio está optimizado para **desktop y móviles**, con animaciones suaves al
 - 🧭 Navbar dinámico (transparente + cambio al scroll)
 - 💬 Botón de contacto directo a WhatsApp
 - 🐶 Sección de servicios y presentación personal
-- ⚡ Sitio rápido y liviano (HTML, CSS y JS puro)
+- ⚡ Sitio rápido y liviano (HTML5, CSS3 y JS puro)
 
 ---
 
